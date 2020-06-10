@@ -13,7 +13,6 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Simple12Api</name>
 	<description>Demo project for Spring Boot</description>
-
 	<properties>
 	<start-class>com.jbk.Simple12Api.Simple12ApiApplication</start-class>
 		<java.version>1.8</java.version>
